@@ -54,7 +54,7 @@
     height: 100%;
     border-radius: 50%;
     animation-name: rotate-shield;
-    animation-duration: 1s;
+    animation-duration: 3s;
     animation-iteration-count: infinite;
     animation-delay: 0s;
     animation-timing-function: linear;
